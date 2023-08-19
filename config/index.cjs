@@ -45,8 +45,8 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2023-05-01' },
         
       ],
-       note_ch: '',
-       note_en: ''
+       note_ch: "",
+       note_en: ""
     },
   ],
 
